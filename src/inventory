@@ -1,0 +1,55 @@
+{
+  "drinks": [
+    {
+      "name": "Coca Cola",
+      "price": 2.0,
+      "quantity": 2
+    },
+    {
+      "name": "Sprite",
+      "price": 2.5,
+      "quantity": 2
+    },
+    {
+      "name": "Fanta",
+      "price": 2.25,
+      "quantity": 3
+    },
+    {
+      "name": "Orange Juice",
+      "price": 3.0,
+      "quantity": 1
+    },
+    {
+      "name": "Water",
+      "price": 3.25,
+      "quantity": 0
+    }
+  ],
+  "coins": [
+    {
+      "value": 3.0,
+      "quantity": 5
+    },
+    {
+      "value": 5.0,
+      "quantity": 5
+    },
+    {
+      "value": 2.0,
+      "quantity": 5
+    },
+    {
+      "value": 1.0,
+      "quantity": 5
+    },
+    {
+      "value": 0.5,
+      "quantity": 5
+    },
+    {
+      "value": 0.25,
+      "quantity": 5
+    }
+  ]
+}
