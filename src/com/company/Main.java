@@ -1,3 +1,8 @@
+///
+//  In order to run you have to put the path to the json database in the command line
+//  I used a json file as my database
+//  Created by Natan Ginsberg
+///
 package com.company;
 
 import java.io.BufferedReader;
