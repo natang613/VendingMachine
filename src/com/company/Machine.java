@@ -192,6 +192,6 @@ class NotEnoughMoney extends Exception {
 
 class NotCorrectAmountOfChange extends Exception {
     public NotCorrectAmountOfChange() {
-        super("Not enough change ");
+        super("We do not have the correct change to give you, sorry\n ");
     }
 }
